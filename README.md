@@ -1,2 +1,3 @@
-# Sesion-1-Jump
-Sesion 1 - Jump1 
+# While Loop
+* Numeracion aleatoria
+* Utilizando python
