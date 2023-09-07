@@ -1,9 +1,14 @@
-ts_lenght = 10
+import numpy as np
+import matplotlib.pyplot as plt
+
+ts_length = 10
 e_values = []
 i = 0
-while i < ts_lenght:
+
+while i < ts_length:
     e = np.random.randn()
-    e_value.append(e)
+    e_values.append(e)
     i = i + 1
+
 plt.plot(e_values)
 plt.show()
